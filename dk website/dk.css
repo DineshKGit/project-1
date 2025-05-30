@@ -1,0 +1,286 @@
+
+.header{
+background-color:darkcyan;
+padding: 10px;
+border-radius: 20px;
+position: relative;
+align-items: center;
+}
+
+.heading h1 :hover {
+ background-color: slateblue;
+}
+
+.heading{
+text-align: center;
+}
+
+ .search{
+float: right;
+margin-right: 20px;
+position: absolute;
+right: 1%;
+}
+
+ .user{
+float: right;
+position: absolute;
+right: 5%;
+ }
+
+ .notification{
+float: right;
+position: absolute;
+right: 8%;
+ }
+
+ 
+  nav{
+    border-radius: 20px;
+    background-color: rgb(145, 240, 161);
+    height: 50px;
+    
+ }
+
+ .navbar {
+  overflow: hidden;
+ }
+
+ .navbar a {
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 15px;
+ }
+
+ .navleft{
+float: left
+ }
+ 
+ .navcenter{
+display: inline;
+ }
+
+ .navright{
+   margin-top: 12px;
+   margin-left: -30%;
+    float:right;
+   
+ }
+
+ .firstdiv {
+
+   margin-left: 50px;
+   margin-right: 50px;
+   flex-direction: row;
+   height: 400px;
+   background-color:lightgrey;    
+   text-align: center;
+   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+   color: white;
+   border-radius: 20px;
+}
+
+.a1{
+align-self: start;
+background-color: white;
+color: black;
+float: left;
+margin-left: 40px;
+margin-top: 30px;
+border-radius: 20px;
+}
+
+
+.a2 {
+align-self: center;
+background-color: white;
+color: black;
+position: absolute;
+margin-left: 34%;
+margin-top: 30px;
+border-radius: 20px;
+}
+
+
+.a3 {
+align-self: end;
+background-color: white;
+color: black;
+float: right;
+margin-right: 90px;
+margin-top: 30px;
+border-radius: 20px;
+}
+
+.firstdiv img{
+display: flex;
+flex-direction: row;
+height: 200px;
+margin-top: 50px;
+margin-left: 850px;
+margin: auto;
+margin: 20px;
+}
+
+.centerdiv {
+
+   margin-left: 50px;
+   margin-right: 50px;
+   flex-direction: row;
+   height: 400px;
+   background-color: lightblue;    
+   text-align: center;
+   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+   color: white;
+   border-radius: 20px
+   
+}
+
+.b1{
+align-self: start;
+background-color: white;
+color: black;
+float: left;
+margin-left: 40px;
+margin-top: 30px;
+border-radius: 20px;
+}
+
+
+.b2 {
+align-self: center;
+background-color: white;
+color: black;
+position: absolute;
+margin-left: 34%;
+margin-top: 30px;
+border-radius: 20px;
+}
+
+
+.b3 {
+align-self: end;
+background-color: white;
+color: black;
+float: right;
+margin-right: 40px;
+margin-top: 30px;
+border-radius: 20px;
+}
+
+.centerdiv img{
+display: flex;
+flex-direction: row;
+height: 200px;
+margin-top: 20px;
+margin-top: 50px;
+margin-left: 850px;
+margin: auto;
+margin: 20px;
+}
+
+/*.centerdiv {
+   margin-top: 50px;
+      width: 100px;
+      display: flex;
+      flex-direction:row;
+      height: 700px;
+      background-color:bisque;
+      color:crimson;
+      text-align: center;
+      border-radius: 20px;
+}
+
+   .tech h2{
+      margin-top: 60px;
+      font-size: 60px;
+      letter-spacing:2px;
+   }
+
+   .tech img{
+      width: 90%;
+      height: 410px;
+      margin: 10px;
+      border-radius: 20px;
+      margin-top: 60px;
+      box-shadow: 5px 5px 10px;
+}
+*/
+ div.mydivfooter {
+    border: 3px outset black; 
+}
+
+.lastdiv {
+
+   margin-left: 50px;
+   margin-right: 50px;
+   flex-direction: row;
+   height: 400px;
+   background-color:thistle;    
+   text-align: center;
+   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+   color: white;
+   border-radius: 20px
+}
+
+.box1{
+align-self: start;
+background-color: white;
+color: black;
+float: left;
+margin-left: 40px;
+margin-top: 30px;
+border-radius: 20px;
+}
+
+
+.box2 {
+align-self: center;
+background-color: white;
+color: black;
+position: absolute;
+margin-left: 34%;
+margin-top: 30px;
+border-radius: 20px;
+}
+
+
+.box3 {
+align-self: end;
+background-color: white;
+color: black;
+float: right;
+margin-right: 40px;
+margin-top: 30px;
+border-radius: 20px;
+}
+
+.lastdiv img{
+display: flex;
+flex-direction: row;
+height: 200px;
+margin-top: 20px;
+margin-top: 50px;
+margin-left: 850px;
+margin: auto;
+margin: 20px;
+}
+
+footer {
+   text-align: center;
+   border-radius: 20px;
+   background-color: royalblue;
+   height: 60px;
+ }
+
+ .foot{
+   display:flex;
+   position: relative;
+   
+
+ }
+
+
+ 
